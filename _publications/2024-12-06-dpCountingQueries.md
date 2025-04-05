@@ -7,7 +7,7 @@ excerpt:
 date: 2025-05-21
 venue: 'Springer Lecture Notes in Computer Science'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://jesse-campbell.github.io/files/approximate_range_query.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Jesse Campbell and Chunjiang Zhu. Differentially private counting queries on approximate shortest paths. In Combinatorial Optimization and Applications: 17th International Conference, COCOA2024, Beijing, China, Dec. 2024., to appear in Lecture Notes in Computer Science, Springer.'
 ---
