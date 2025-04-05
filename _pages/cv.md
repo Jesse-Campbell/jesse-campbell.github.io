@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Mathematics, University of Florida, 2030 (expected)
+* M.S. in Mathematics, University of Florida, 2027 (expected)
+* B.S. in Applied Mathematics and Computational Science, Duke Kunshan University, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Testing Team Intern
+  * KONE Elevators China
+  * Duties includes: Integration of API with database (coded in SQL); Writing test cases to test API
+  * Supervisor: Li Lin
   
 Skills
 ======
@@ -61,4 +51,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
