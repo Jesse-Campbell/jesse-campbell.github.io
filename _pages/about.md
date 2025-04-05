@@ -15,8 +15,6 @@ I am currently an Undergraduate studying **Mathematics** at **Duke Kunshan Unive
 
 Contact
 ======
-Feel free to contact me at,
-
 * **Email** -
   * Personal: jessecampbell517@gmail.com
   * University: jesse.campbell@duke.edu
@@ -24,3 +22,6 @@ Feel free to contact me at,
 * **Phone** -
   * China: +86 (181) 1813-3509
   * US: +1 (321) 732-9362
+
+
+
