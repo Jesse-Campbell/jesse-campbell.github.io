@@ -25,7 +25,7 @@ author:
   avatar           : "jesse.jpg"
   name             : "Jesse Campbell"
   pronouns         : # example: "she/her"  
-  bio              : "Math Ph.D Student at the University of Florida"
+  bio              : "Math Undergraduate Student at the Duke Kunshan University"
   location         : "Kunshan, CN"
   employer         : "Duke Kunshan University"
   uri              : # URL
@@ -223,7 +223,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
