@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink:
 venue: "Duke Kunshan University"
-date: 2024-01-01
+date:
 location: "Kunshan, China"
 ---
 
