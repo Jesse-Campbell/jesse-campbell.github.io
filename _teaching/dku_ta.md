@@ -8,8 +8,7 @@ date:
 location: "Kunshan, China"
 ---
 
-COMPSCI203: Discrete Math for Computer Science (Spring 2024, Spring 2025)
-MATH206: Probability and Statistics (Spring 2025)
+COMPSCI203: Discrete Math for Computer Science (Spring 2024, Spring 2025) MATH206: Probability and Statistics (Spring 2025)
 
 Heading 1
 ======
