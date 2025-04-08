@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<p align="center">
+  <img src="/files/images/jesse.jpg" alt="Profile photo of Jesse Campbell" style="width: 200px; border-radius: 50%;">
+</p>
+
 <h1 style="color: #cc0000;">
   {% if site.jekyllacademic.homepage_title %}
     {{ site.jekyllacademic.homepage_title }}
