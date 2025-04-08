@@ -25,5 +25,5 @@ US
 <p>
 China
   <span class="icon">📞</span>
-      +86 (181) 1813-3509
+      +86 (181) 1813-3509 (WeChat: @tubaplyerj)
 </p>
