@@ -17,12 +17,13 @@ Personal
 </p>
 
 <p>
-<b>US</b>
+US
   <span class="icon">📞</span>
       +1 (321) 732-9362
 </p>
 
 <p>
+China
   <span class="icon">📞</span>
       +86 (181) 1813-3509
 </p>
