@@ -8,7 +8,7 @@ layout: default
     <h2>Papers</h2>
     <ul>
       <li>
-        <span class="publication-title">Differentially Private Counting Queries on Approximate Shortest Paths</span><br> <a href="files/approximate_range_query.pdf" target="_blank">PDF</a>
+        <span class="publication-title">Differentially Private Counting Queries on Approximate Shortest Paths</span><br><a href="files/approximate_range_query.pdf" target="_blank">PDF</a>
         </li>
         <span class="publication-authors"><b>Jesse Campbell</b>, Chunjiang Zhu</span><br>
       </li>
