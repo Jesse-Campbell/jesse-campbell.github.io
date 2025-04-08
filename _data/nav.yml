@@ -1,11 +1,7 @@
 links:
   - title: publications
     url: /publications
-  - title: projects
-    url: /projects
   - title: blog
     url: /blog
-  - title: gallery
-    url: /gallery
   - title: contact
     url: /contact
