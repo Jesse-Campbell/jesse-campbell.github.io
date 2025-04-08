@@ -27,5 +27,3 @@ layout: default
       </li>
     </ul>
   </section>
-</body>
-</html>
