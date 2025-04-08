@@ -1,24 +1,24 @@
-title: An Awesome site title
-navbar_title: Jekyll Academic
+title: Jesse Campbell
+navbar_title: Jesse Cambpbell
 
 author:
   name: Jesse Campbell # Your name
   email: jesse.campbell@duke.edu
 
-description: Jekyll academic is a lightweight theme for any academic usecase. Perfect for portfolio websites, blogs, and academia # description of your site
+description: I am currently an Undergraduate studying Mathematics at Duke Kunshan University, a dual-degree, joint venture university between Duke University (Durham, NC) and Wuhan University (Wuhan, China). However, I'll be graduating in May 2025, at which point I plan to move to the University of Florida to pursue a Ph.D. in Mathematics. In particular, I am interested in algebraic combinatorics and graph theory, for example, Stanley's Chromatic Symmetric Function. I am also broadly interested in theoretical computer science, such as discrete algorithm design. # description of your site
 
 url: "https://jesse-campbell.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # The subpath of your site, e.g. /blog
 
 jekyllacademic:
-  homepage_title: "Hello world" # Your homepage title
+  homepage_title: "Jesse Campbell" # Your homepage title
   disqusname: # Your disqus sitename
-  footer: Author Year, 2021 # Your name, Year
-  contentlicense: "MIT" # Choose either one of these to put: MIT, Commons Clause, CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0, CC BY-NC-SA 4.0, CC BY-NC-SA 4.0, CC BY-SA 4.0
+  footer: Jesse Campbell, 2025 # Your name, Year
+  contentlicense: # Choose either one of these to put: MIT, Commons Clause, CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0, CC BY-NC-SA 4.0, CC BY-NC-SA 4.0, CC BY-SA 4.0
   socials:
     twitter: twitter # Your twitter username
-    github: yak-fumblepack/jekyll-academic # Your github username
-    linkedin: unavailable # Your linkedin
+    github: jesse-campbell # Your github username
+    linkedin: jessecampbelldku # Your linkedin
     keybase: keybase # Your keybase
 
 # No need to edit this part, however if you want to, that's fine as well
