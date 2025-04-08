@@ -9,6 +9,7 @@ layout: default
     <ul>
       <li>
         <span class="publication-title">Differentially Private Counting Queries on Approximate Shortest Paths</span> <a href="files/approximate_range_query.pdf" target="_blank">PDF</a><br>
+        <span class="publication-venue">In <it>Combinatorial Optimization and Applications, 17th International Conference</it> Beijing, China, 2024</span><br>
         <span class="publication-authors"><b>Jesse Campbell</b>, Chunjiang Zhu</span><br>
       </li>
     </ul>
