@@ -5,9 +5,6 @@ layout: default
 <h1 style="color: #cc0000;">Contact page</h1>
 
 <div class="contact-container">
-    <img src="files/profile.jpg" alt="Profile Picture" class="profile-pic">
-    <h1>Contact Jesse Campbell</h1>
-
     <div class="contact-item">
       <span class="icon">📧</span>
       <a href="mailto:jesse.campbell@duke.edu">jesse.campbell@duke.edu</a>
