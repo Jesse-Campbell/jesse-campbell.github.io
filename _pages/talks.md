@@ -12,11 +12,11 @@ layout: default
       </li>
       <li>
         <span class="talk-title">DP Range Query on Shortest Paths</span> | <a href="files/dp_slides.pdf" target="_blank">slides</a><br>
-        <span class="talk-venue">In <em>Duke Kunshan University Discrete Math Seminar</em>. November, 5th, 2024</span><br>
+        <span class="talk-venue"><em>Duke Kunshan University Discrete Math Seminar</em>. November, 5th, 2024</span><br>
       </li>
       <li>
         <span class="talk-title">DP Range Query on Shortest Paths</span> | <a href="files/dp_slides.pdf" target="_blank">slides</a><br>
-        <span class="talk-venue">In <em>Duke Kunshan University Discrete Math Seminar</em>. November, 5th, 2024</span><br>
+        <span class="talk-venue"><em>Duke Kunshan University Discrete Math Seminar</em>. November, 5th, 2024</span><br>
       </li>
     </ul>
   </section>
