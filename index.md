@@ -11,7 +11,7 @@ layout: default
 </h1>
 
 <p align="center">
-  <img src="/files/images/profile.jpg" alt="Profile photo of Jesse Campbell" style="width: 200px; border-radius: 50%;">
+  <img src="/files/profile.jpg" alt="Profile photo of Jesse Campbell" style="width: 200px; border-radius: 50%;">
 </p>
 
 <p>
