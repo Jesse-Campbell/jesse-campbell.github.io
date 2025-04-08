@@ -22,5 +22,9 @@ layout: default
         <span class="talk-title">Finite Calculus: A Discrete Analouge to Infinite Calculus</span> | <a href="files/finiteCalculus_slides.pdf" target="_blank">slides</a><br>
         <span class="talk-venue"><em>Duke Kunshan University Discrete Math Seminar</em>. November 10th, 2023</span><br>
       </li>
+      <li>
+        <span class="talk-title">Benford's Law: Properties, Application, and Questions</span> | <a href="files/benfordsLaw_slides.pdf" target="_blank">slides</a><br>
+        <span class="talk-venue"><em>Duke Kunshan University Discrete Math Seminar</em>. May 12th, 2023</span><br>
+      </li>
     </ul>
   </section>
