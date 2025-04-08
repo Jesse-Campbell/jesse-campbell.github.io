@@ -2,12 +2,12 @@ title: An Awesome site title
 navbar_title: Jekyll Academic
 
 author:
-  name: jekyll-academic # Your name
-  email: your-email@domain.com
+  name: Jesse Campbell # Your name
+  email: jesse.campbell@duke.edu
 
 description: Jekyll academic is a lightweight theme for any academic usecase. Perfect for portfolio websites, blogs, and academia # description of your site
 
-url: "https://jekyll-academic.netlify.app" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://jesse-campbell.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # The subpath of your site, e.g. /blog
 
 jekyllacademic:
