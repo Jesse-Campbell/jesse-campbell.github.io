@@ -2,50 +2,6 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Publications</title>
-  <style>
-    /* Minimalistic styling */
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      line-height: 1.6;
-      background-color: #fff;
-      color: #333;
-    }
-    h1, h2 {
-      font-weight: 300;
-      color: #444;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 1.25em;
-    }
-    .publication-title {
-      font-weight: bold;
-    }
-    .publication-authors {
-      font-style: italic;
-    }
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
   <h1>Publications</h1>
   
   <section id="papers">
