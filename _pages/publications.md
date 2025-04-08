@@ -18,11 +18,11 @@ layout: default
     <h2>Notes</h2>
     <ul>
       <li>
-        <span class="publication-title">Spiders are Reconstructible from their Chromatic Symmetric Functions</span><br> <a href="files/spiders.pdf" target="_blank">PDF</a>
+        <span class="publication-title">Spiders are Reconstructible from their Chromatic Symmetric Functions</span> <a href="files/spiders.pdf" target="_blank">PDF</a><br> 
         <span class="publication-authors"><b>Jesse Campbell</b></span><br>
       </li>
       <li>
-        <span class="publication-title">Expressions for the Chromatic Symmetric Function of Complete Bipartite, Windmill, and Lollipop Graphs</span><br> <a href="files/bases.pdf" target="_blank">Download PDF</a>
+        <span class="publication-title">Expressions for the Chromatic Symmetric Function of Complete Bipartite, Windmill, and Lollipop Graphs</span> <a href="files/bases.pdf" target="_blank">PDF</a><br>
         <span class="publication-authors"><b>Jesse Campbell</b></span><br>
       </li>
     </ul>
