@@ -8,16 +8,10 @@ layout: default
     <h2>Papers</h2>
     <ul>
       <li>
-        <span class="publication-title">Title of the Paper One</span><br>
-        <span class="publication-authors">Jesse Campbell, Co-author A, Co-author B</span><br>
-        <a href="path/to/paper1.pdf" target="_blank">Download PDF</a>
+        <span class="publication-title">Differentially Private Counting Queries on Approximate Shortest Paths</span><br>
+        <span class="publication-authors">Jesse Campbell, Chunjiang Zhu</span><br>
+        <a href="files/approximate_range_query.pdf" target="_blank">Download PDF</a>
       </li>
-      <li>
-        <span class="publication-title">Title of the Paper Two</span><br>
-        <span class="publication-authors">Jesse Campbell, Co-author C</span><br>
-        <a href="path/to/paper2.pdf" target="_blank">Download PDF</a>
-      </li>
-      <!-- Add more paper entries here -->
     </ul>
   </section>
   
