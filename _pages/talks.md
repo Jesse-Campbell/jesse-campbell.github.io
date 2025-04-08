@@ -15,7 +15,7 @@ layout: default
         <span class="talk-venue"><em>Combinatorial Optimization and Applications, 17th International Conference</em>. December 7th, 2024</span><br>
       </li>
       <li>
-        <span class="talk-title">DP Range Query on Shortest Paths</span> | <a href="files/dp_slides.pdf" target="_blank">slides</a><br>
+        <span class="talk-title">DP Range Query on Shortest Paths</span> | <a href="files/dp_slides.pdf" target="_blank">slides</a> | <a href="https://sites.duke.edu/kits_team_101_48585/2024/11/07/2024-11-05/">website</a><br>
         <span class="talk-venue"><em>Duke Kunshan University Discrete Math Seminar</em>. November 5th, 2024</span><br>
       </li>
       <li>
