@@ -19,10 +19,6 @@ layout: default
 </p>
 
 <p>
-  I'll be graduating in May 2025, at which point I plan to move to the University of Florida to pursue a Ph.D. in Mathematics. In particular, I am interested in algebraic combinatorics and graph theory, for example, Stanley's Chromatic Symmetric Function. I am also broadly interested in theoretical computer science, such as discrete algorithm design.
-</p>
-
-<p>
   <i class="fa fa-envelope"></i>
   <a href="mailto:jesse.campbell@duke.edu">jesse.campbell@duke.edu</a>
 </p>
