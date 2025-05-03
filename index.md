@@ -19,6 +19,10 @@ layout: default
 </p>
 
 <p>
+  In Fall 2025, I am excited to move to the University of Illinois at Chicago (UIC) to join their Mathematical Computer Science (MS) program.
+</p>
+
+<p>
   <i class="fa fa-envelope"></i>
   <a href="mailto:jesse.campbell@duke.edu">jesse.campbell@duke.edu</a>
 </p>
