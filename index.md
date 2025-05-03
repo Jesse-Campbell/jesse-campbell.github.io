@@ -19,7 +19,7 @@ layout: default
 </p>
 
 <p>
-  In Fall 2025, I am excited to move to the University of Illinois at Chicago (UIC) to join their Mathematical Computer Science (MS) program.
+  I am excited to move to the University of Illinois at Chicago (UIC) in Fall 2025 to join their Mathematical Computer Science (MS) program.
 </p>
 
 <p>
