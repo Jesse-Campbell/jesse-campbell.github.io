@@ -16,7 +16,7 @@ layout: default
   </section>
   
   <section id="notes">
-    <h2>Notes</h2>
+    <h2>Notes (not intended for publication)</h2>
     <ul>
       <li>
         <span class="publication-title">Spiders are Reconstructible from their Chromatic Symmetric Functions</span> | <a href="files/spiders.pdf" target="_blank">PDF</a><br> 
