@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-<head>
-<meta name="google-site-verification" content="GTOeSaCt11hckFpc_kHjQXjTpP6F4Acsxy5py7Q9pyo" />
-<\head>
 
 <h1 style="color: #cc0000;">
   {% if site.jekyllacademic.homepage_title %}
