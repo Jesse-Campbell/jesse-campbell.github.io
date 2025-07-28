@@ -14,13 +14,8 @@ layout: default
   <img src="/files/profile.jpg" alt="Profile photo of Jesse Campbell" style="width: 200px; border-radius: 50%;">
 </p>
 
-
 <p>
-  I am currently an Undergraduate studying Mathematics at Duke Kunshan University, a dual-degree, joint venture university between Duke University (Durham, NC) and Wuhan University (Wuhan, China).
-</p>
-
-<p>
-  I am excited to move to the University of Illinois at Chicago (UIC) in Fall 2025 to join their Mathematical Computer Science (MS) program.
+  I am a graduate student in the Department of Mathematics, Statistics, and Computer Science at the University of Illinois at Chicago (UIC). Previously, I was an undergraduate at Duke Kunshan University and Duke University, where I completed my degree in Mathematics.
 </p>
 
 <p>
