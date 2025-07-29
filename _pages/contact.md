@@ -5,7 +5,7 @@ layout: default
 <h1 style="color: #cc0000;">Contact page</h1>
 
 <p>
-  <i class="fa fa-envelope"></i> Email <i class="fa fa-envelope"></i>
+  Email <i class="fa fa-envelope"></i>
 </p>
 
 <p>
@@ -21,7 +21,7 @@ Other - <a href="mailto:jesse.campbell@alumni.duke.edu">jesse.campbell@alumni.du
 </p>
 
 <p>
-<span class="icon">📞</span> Phone <span class="icon">📞</span>
+Phone <span class="icon">📞</span>
 </p>
 
 <p>
