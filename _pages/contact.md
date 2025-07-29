@@ -9,15 +9,15 @@ layout: default
 </p>
 
 <p>
-  University -- <a href="mailto:jcamp51@uic.edu">jcamp51@uic.edu</a>
+  University - <a href="mailto:jcamp51@uic.edu">jcamp51@uic.edu</a>
 </p>
 
 <p>
-Personal -- <a href="mailto:jessecampbell517@gmail.com">jessecampbell517@gmail.com</a>
+Personal - <a href="mailto:jessecampbell517@gmail.com">jessecampbell517@gmail.com</a>
 </p>
 
 <p>
-Other -- <a href="mailto:jesse.campbell@alumni.duke.edu">jesse.campbell@alumni.duke.edu</a>
+Other - <a href="mailto:jesse.campbell@alumni.duke.edu">jesse.campbell@alumni.duke.edu</a>
 </p>
 
 <p>
@@ -25,9 +25,9 @@ Other -- <a href="mailto:jesse.campbell@alumni.duke.edu">jesse.campbell@alumni.d
 </p>
 
 <p>
-US -- +1 (321) 732-9362
+US - +1 (321) 732-9362
 </p>
 
 <p>
-China -- +86 181-1813-3509 (WeChat: @tubaplayerj)
+China - +86 181-1813-3509 (WeChat: @tubaplayerj)
 </p>
