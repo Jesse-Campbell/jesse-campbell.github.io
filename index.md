@@ -19,6 +19,10 @@ layout: default
 </p>
 
 <p>
+I am currently looking for internships for the summer of 2026 located in Chicago, Illinois in the fields of cybersecurity and cryptography, quantitative finance, fraud detection, supply chain optimization, or combinatorial game development.
+</p>
+
+<p>
   <i class="fa fa-envelope"></i>
   <a href="mailto:jesse.campbell@duke.edu">jesse.campbell@duke.edu</a>
 </p>
