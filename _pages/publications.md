@@ -12,6 +12,11 @@ layout: default
          <span class="publication-authors"><b>Jesse Campbell</b>, Chunjiang Zhu. 2024</span><br>
         <span class="publication-venue">In <em>Combinatorial Optimization and Applications, 17th International Conference</em></span><br>
       </li>
+      <li>
+        <span class="publication-title">Chromatic Symmetric Functions</span> | <a href="files/thesis_campbell.pdf" target="_blank">PDF</a> <br>
+         <span class="publication-authors"><b>Jesse Campbell</b>. 2025</span><br>
+        <span class="publication-venue">In <em>Duke Kunshan University 2025 Signature Work Conferencee and Exhibition</em></span><br>
+      </li>
     </ul>
   </section>
   
