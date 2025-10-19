@@ -21,4 +21,11 @@ layout: default
         <span class="course">Probability and Statistics (Math 206). Spring 2025 </span>
       </li>
     </ul>
+
+    <h3>Teaching Materials</h3>
+    <ul>
+      <li>
+        <span class="publication-title">Undergraduate Complex Analysis Cheat Sheet</span> | <a href="files/undergraduate_complexAnalysis_cheatSheet.pdf" target="_blank">PDF</a><br>
+      </li>
+    </ul>
   </section>
