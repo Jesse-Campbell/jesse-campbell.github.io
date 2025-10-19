@@ -38,6 +38,10 @@ layout: default
         <span class="publication-authors"><b>Jesse Campbell</b>. 2025</span><br>
       </li>
       <li>
+        <span class="publication-title">Modeling De Facto Segregation</span> | <a href="files/schellingModel.pdf" target="_blank">PDF</a><br> 
+        <span class="publication-authors"><b>Jesse Campbell</b>. 2024</span><br>
+      </li>
+      <li>
         <span class="publication-title">The Bisection Method Obeys Benford's Law</span> | <a href="files/bisection_method.pdf" target="_blank">PDF</a><br> 
         <span class="publication-authors"><b>Jesse Campbell</b>. 2023</span><br>
       </li>
