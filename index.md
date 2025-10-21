@@ -18,7 +18,7 @@ layout: default
   I am a graduate student in the Department of Mathematics, Statistics, and Computer Science at the University of Illinois at Chicago (UIC). Previously, I was an undergraduate at Duke Kunshan University and Duke University, where I completed my degree in Mathematics.
 </p>
 
-<h1>Countries I’ve visited</h1>
+<h2>Countries I’ve visited</h2>
 
   <!-- Each flag has role="img" and an aria-label for accessibility -->
   <p class="flags">
