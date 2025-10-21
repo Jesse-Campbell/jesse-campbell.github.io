@@ -21,7 +21,7 @@ layout: default
 <h2>Countries I’ve visited</h2>
 
   <!-- Each flag has role="img" and an aria-label for accessibility -->
- <p class="flags" style="font-size: 40px;">
+ <p class="flags" style="font-size: 35px;">
   <span class="flag" role="img" aria-label="United States">🇺🇸</span>
   <span class="flag" role="img" aria-label="China">🇨🇳</span>
   <span class="flag" role="img" aria-label="Israel">🇮🇱</span>
