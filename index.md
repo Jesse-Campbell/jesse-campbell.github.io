@@ -21,20 +21,20 @@ layout: default
 <h2>Countries I’ve visited</h2>
 
   <!-- Each flag has role="img" and an aria-label for accessibility -->
-  <p class="flags" style="font-size: 20px;">
-    <span class="flag" role="img" aria-label="United States">🇺🇸</span>
-    <span class="flag" role="img" aria-label="China">🇨🇳</span>
-    <span class="flag" role="img" aria-label="Israel">🇮🇱</span>
-    <span class="flag" role="img" aria-label="Hong Kong">🇭🇰</span>
-    <span class="flag" role="img" aria-label="South Korea">🇰🇷</span>
-    <span class="flag" role="img" aria-label="Japan">🇯🇵</span>
-    <span class="flag" role="img" aria-label="Romania">🇷🇴</span>
-    <span class="flag" role="img" aria-label="Spain">🇪🇸</span>
-    <span class="flag" role="img" aria-label="Andorra">🇦🇩</span>
-    <span class="flag" role="img" aria-label="United Kingdom">🇬🇧</span>
-    <span class="flag" role="img" aria-label="Jamaica">🇯🇲</span>
-    <span class="flag" role="img" aria-label="Canada">🇨🇦</span>
-  </p>
+ <p class="flags" style="font-size: 60px;">
+  <span class="flag" role="img" aria-label="United States">🇺🇸</span>
+  <span class="flag" role="img" aria-label="China">🇨🇳</span>
+  <span class="flag" role="img" aria-label="Israel">🇮🇱</span>
+  <span class="flag" role="img" aria-label="Hong Kong">🇭🇰</span>
+  <span class="flag" role="img" aria-label="South Korea">🇰🇷</span>
+  <span class="flag" role="img" aria-label="Japan">🇯🇵</span>
+  <span class="flag" role="img" aria-label="Romania">🇷🇴</span>
+  <span class="flag" role="img" aria-label="Spain">🇪🇸</span>
+  <span class="flag" role="img" aria-label="Andorra">🇦🇩</span>
+  <span class="flag" role="img" aria-label="United Kingdom">🇬🇧</span>
+  <span class="flag" role="img" aria-label="Jamaica">🇯🇲</span>
+  <span class="flag" role="img" aria-label="Canada">🇨🇦</span>
+</p>
 
 <p>
   <i class="fa fa-envelope"></i>
