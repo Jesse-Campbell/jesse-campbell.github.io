@@ -9,17 +9,5 @@ layout: default
 </p>
 
 <p>
-Personal - <a href="mailto:jessecampbell517@gmail.com">jessecampbell517@gmail.com</a>
-</p>
-
-<p>
-Other - <a href="mailto:jesse.campbell@alumni.duke.edu">jesse.campbell@alumni.duke.edu</a>
-</p>
-
-<p>
-US - +1 (321) 732-9362
-</p>
-
-<p>
-China - +86 181-1813-3509 (WeChat: @tubaplayerj)
+(WeChat: @tubaplayerj
 </p>
