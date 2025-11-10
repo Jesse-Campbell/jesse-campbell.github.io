@@ -5,10 +5,6 @@ layout: default
 <h1 style="color: #cc0000;">Contact page</h1>
 
 <p>
-  Email <i class="fa fa-envelope"></i>
-</p>
-
-<p>
   University - <a href="mailto:jcamp51@uic.edu">jcamp51@uic.edu</a>
 </p>
 
@@ -18,10 +14,6 @@ Personal - <a href="mailto:jessecampbell517@gmail.com">jessecampbell517@gmail.co
 
 <p>
 Other - <a href="mailto:jesse.campbell@alumni.duke.edu">jesse.campbell@alumni.duke.edu</a>
-</p>
-
-<p>
-Phone <span class="icon">📞</span>
 </p>
 
 <p>
