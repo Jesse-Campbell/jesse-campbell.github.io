@@ -30,8 +30,8 @@ layout: default
     <h2>Notes (not intended for publication)</h2>
     <ul>
        <li>
-        <span class="publication-title">On the Contradiction Graph of a Hypothesis Class</span> | <a href="files/project_campbell_ibaibarriga.pdf" target="_blank">PDF</a><br> 
-        <span class="publication-authors"><b>Jesse Campbell</b>. 2025</span><br>
+        <span class="publication-title">On the Contradiction Graph of a Hypothesis Class</span> | <a href="files/project_campbell_ibaibarriaga.pdf" target="_blank">PDF</a><br> 
+        <span class="publication-authors"><b>Jesse Campbell</b>, Daniel Ibaribarriaga. 2025</span><br>
       </li>
       <li>
         <span class="publication-title">Spiders are Reconstructible from their Chromatic Symmetric Functions</span> | <a href="files/spiders.pdf" target="_blank">PDF</a><br> 
