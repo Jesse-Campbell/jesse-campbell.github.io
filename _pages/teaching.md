@@ -7,6 +7,9 @@ layout: default
 <section id="notes">
     <h3>Graduate Teaching Assistant, University of Illinois at Chicago</h3>
     <ul>
+        <li>
+        <span class="course">Calculus II (Math 181). Spring 2026 </span>
+      </li>
       <li>
         <span class="course">Finite Mathematics for Business (Math 160). Fall 2025 </span>
       </li>
