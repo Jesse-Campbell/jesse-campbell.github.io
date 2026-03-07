@@ -5,9 +5,11 @@ layout: default
 <h1 style="color: #cc0000;">Contact page</h1>
 
 <p>
-  University - <a href="mailto:jcamp51@uic.edu">jcamp51@uic.edu</a>
+  <b>University.</b> jcamp51 "AT" uic "DOT" edu
+
+  <b>Personal.</b> jessecampbell517 "AT" gmail "DOT" com
 </p>
 
 <p>
-(WeChat: @tubaplayerj
+(WeChat: @tubaplayerj)
 </p>
