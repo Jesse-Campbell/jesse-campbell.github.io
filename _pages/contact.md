@@ -6,7 +6,9 @@ layout: default
 
 <p>
   <b>University.</b> jcamp51 "AT" uic "DOT" edu
+</p>
 
+<p>
   <b>Personal.</b> jessecampbell517 "AT" gmail "DOT" com
 </p>
 
