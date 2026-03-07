@@ -19,6 +19,10 @@ layout: default
 </p>
 
 <p>
+  <b>Research interests.</b> Theoretical computer science, specifically differential privacy and learning theory
+</p>
+
+<p>
   <i class="fa fa-envelope"></i>
-  <a href="mailto:jesse.campbell@duke.edu">jesse.campbell@duke.edu</a>
+  jcamp51 "AT" uic "DOT" edu
 </p>
