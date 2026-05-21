@@ -32,21 +32,3 @@ layout: default
       </li>
     </ul>
   </section>
-  
-  <section id="notes">
-    <h2>Notes (not intended for publication)</h2>
-    <ul>
-       <li>
-        <span class="publication-title">On the Contradiction Graph of a Hypothesis Class</span> | <a href="files/project_campbell_ibaibarriaga.pdf" target="_blank">PDF</a><br> 
-        <span class="publication-authors"><b>Jesse Campbell</b>, Daniel Ibaibarriaga. 2025</span><br>
-      </li>
-      <li>
-        <span class="publication-title">Expressions for the Chromatic Symmetric Function of Complete Bipartite, Windmill, and Lollipop Graphs</span> | <a href="files/bases.pdf" target="_blank">PDF</a><br>
-        <span class="publication-authors"><b>Jesse Campbell</b>. 2025</span><br>
-      </li>
-      <li>
-        <span class="publication-title">The Bisection Method Obeys Benford's Law</span> | <a href="files/bisection_method.pdf" target="_blank">PDF</a><br> 
-        <span class="publication-authors"><b>Jesse Campbell</b>. 2023</span><br>
-      </li>
-    </ul>
-  </section>
