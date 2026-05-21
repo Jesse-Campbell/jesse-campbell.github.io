@@ -8,6 +8,13 @@ layout: default
     <h2>Papers</h2>
     <ul>
       <li>
+        <span class="publication-title">Contradiction Graphs Determine VC Dimension</span> | <a href="https://arxiv.org/abs/2605.20434" target="_blank">Link</a> <br>
+         <span class="publication-authors"><b>Jesse Campbell</b>, Daniel Ibaibarriaga, Lev Reyzin. 2026</span><br>
+        <span class="publication-venue">In <em>arXiv Preprint</em></span><br>
+      </li>
+    </ul>
+    <ul>
+      <li>
         <span class="publication-title">Differentially Private Counting Queries on Approximate Shortest Paths</span> | <a href="files/approximate_range_query.pdf" target="_blank">PDF</a> | <a href="https://doi.org/10.1007/978-981-96-4445-2_17" target="_blank">Proceedings</a> <br>
          <span class="publication-authors"><b>Jesse Campbell</b>, Chunjiang Zhu. 2024</span><br>
         <span class="publication-venue">In <em>Combinatorial Optimization and Applications, 17th International Conference</em></span><br>
