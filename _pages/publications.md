@@ -8,7 +8,7 @@ layout: default
     <h2>Papers</h2>
     <ul>
       <li>
-        <span class="publication-title">Contradiction Graphs Determine VC Dimension</span> | <a href="https://arxiv.org/abs/2605.20434" target="_blank">Link</a> <br>
+        <span class="publication-title">Contradiction Graphs Determine VC Dimension (in progress)</span> | <a href="https://arxiv.org/abs/2605.20434" target="_blank">Link</a> <br>
          <span class="publication-authors"><b>Jesse Campbell</b>, Daniel Ibaibarriaga, Lev Reyzin. 2026</span><br>
         <span class="publication-venue"> <em>arXiv Preprint</em></span><br>
       </li>
