@@ -19,6 +19,10 @@ layout: default
 </p>
 
 <p>
+  <b>Update.</b> I will be moving to Boston University to start my PhD in the Department of Computer Science in Fall 2026!
+</p>
+
+<p>
   <b>Research interests.</b> Theoretical computer science, specifically differential privacy and learning theory
 </p>
 
