@@ -24,7 +24,7 @@ layout: default
     <h3>Teaching Assistant, Duke Kunshan University</h3>
     <ul>
       <li>
-        <span class="course">Discrete Math for Computer Science (CompSci 203). Spring 2024, Spring 2025 </span>
+        <span class="course">Discrete Math for Computer Science (CS 203). Spring 2024, Spring 2025 </span>
       </li>
       <li>
         <span class="course">Probability and Statistics (Math 206). Spring 2025 </span>
