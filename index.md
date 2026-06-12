@@ -15,7 +15,7 @@ layout: default
 </p>
 
 <p>
-  I am a graduate student in the Department of Mathematics, Statistics, and Computer Science at the University of Illinois at Chicago (UIC)
+  I am a graduate student in the Department of Mathematics, Statistics, and Computer Science at the University of Illinois at Chicago (MSCS @ UIC)
 </p>
 
 <p>
