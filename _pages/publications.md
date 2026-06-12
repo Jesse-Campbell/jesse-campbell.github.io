@@ -16,7 +16,7 @@ layout: default
     <ul>
       <li>
         <span class="publication-title">Differentially Private Counting Queries on Approximate Shortest Paths</span> | <a href="files/approximate_range_query.pdf" target="_blank">PDF</a> | <a href="https://doi.org/10.1007/978-981-96-4445-2_17" target="_blank">Proceedings</a> <br>
-         <span class="publication-authors"><b> with Chunjiang Zhu. 2024</span><br>
+         <span class="publication-authors"> with Chunjiang Zhu. 2024</span><br>
         <span class="publication-venue">In <em>Combinatorial Optimization and Applications, 17th International Conference</em></span><br>
       </li>
     </ul>
@@ -27,7 +27,7 @@ layout: default
     <ul>
       <li>
         <span class="publication-title">Chromatic Symmetric Functions <em>(Undergraduate Thesis)</em></span> | <a href="files/thesis_campbell.pdf" target="_blank">PDF</a> <br>
-         <span class="publication-authors"><b>Jesse Campbell</b>. 2025</span><br>
+         <span class="publication-authors"> 2025</span><br>
         <span class="publication-venue">In <em>Duke Kunshan University 2025 Signature Work Conference and Exhibition</em></span><br>
       </li>
     </ul>
