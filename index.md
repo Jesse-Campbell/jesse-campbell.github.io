@@ -15,7 +15,7 @@ layout: default
 </p>
 
 <p>
-  I am a graduate student in the Department of Mathematics, Statistics, and Computer Science at the University of Illinois at Chicago (UIC). Previously, I was an undergraduate at Duke Kunshan University and Duke University, where I completed my degree in Mathematics.
+  I am a graduate student in the Department of Mathematics, Statistics, and Computer Science at the University of Illinois at Chicago (UIC)
 </p>
 
 <p>
@@ -23,7 +23,7 @@ layout: default
 </p>
 
 <p>
-  <b>Research interests.</b> Theoretical computer science, specifically differential privacy and learning theory
+  <b>Research interests.</b> learning theory, differential privacy, graph algorithms
 </p>
 
 <p>
