@@ -15,11 +15,7 @@ layout: default
 </p>
 
 <p>
-  I am a graduate student in the Department of Mathematics, Statistics, and Computer Science at the University of Illinois at Chicago (MSCS @ UIC)
-</p>
-
-<p>
-  <b>Update.</b> I will be moving to Boston University to start my PhD in the Department of Computer Science in Fall 2026!
+  I am a graduate student in the Department of Computer Science at Boston University. I am fortunate to be advised by Adam Smith.
 </p>
 
 <p>
