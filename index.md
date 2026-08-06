@@ -15,7 +15,7 @@ layout: default
 </p>
 
 <p>
-  I am a graduate student in the Department of Computer Science at Boston University. I am fortunate to be advised by Adam Smith.
+  I am a graduate student in the Department of Computer Science at Boston University. I am fortunate to be advised by <a href="https://cs-people.bu.edu/ads22/">Adam Smith</a>.
 </p>
 
 <p>
