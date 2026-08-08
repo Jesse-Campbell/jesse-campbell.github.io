@@ -24,7 +24,7 @@ layout: default
       <li>
         <span class="publication-title">Differentially Private Counting Queries on Approximate Shortest Paths</span> | <a href="files/approximate_range_query.pdf" target="_blank">PDF</a> | <a href="https://doi.org/10.1007/978-981-96-4445-2_17" target="_blank">Proceedings</a> <br>
          <span class="publication-authors"> with Chunjiang Zhu. December 2024</span><br>
-        <span class="publication-venue">In <em>Combinatorial Optimization and Applications, 17th International Conference</em></span><br>
+        <span class="publication-venue"><em>COCOA2024</em></span><br>
       </li>
     </ul>
   </section>
