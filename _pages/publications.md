@@ -15,7 +15,7 @@ layout: default
     </ul>
     <ul>
       <li>
-        <span class="publication-title">Contradiction Graphs Determine VC Dimension (in progress)</span> | <a href="https://arxiv.org/abs/2605.20434" target="_blank">Link</a> <br>
+        <span class="publication-title">Contradiction Graphs Determine VC Dimension</span> | <a href="https://arxiv.org/abs/2605.20434" target="_blank">Link</a> <br>
          <span class="publication-authors"> with Daniel Ibaibarriaga and Lev Reyzin. June 2026</span><br>
         <span class="publication-venue"> <em>arXiv Preprint</em></span><br>
       </li>
