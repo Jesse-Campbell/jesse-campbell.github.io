@@ -34,7 +34,7 @@ layout: default
     <ul>
       <li>
         <span class="publication-title">Chromatic Symmetric Functions <em>(Undergraduate Thesis)</em></span> | <a href="files/thesis_campbell.pdf" target="_blank">PDF</a> <br>
-         <span class="publication-authors"> Jesse Campbell, 2025</span><br>
+         <span class="publication-authors"> advised by Italo Simonelli. May 2025</span><br>
         <span class="publication-venue">In <em>Duke Kunshan University 2025 Signature Work Conference and Exhibition</em></span><br>
       </li>
     </ul>
