@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-  <h1>Publications</h1>
   
   <section id="papers">
     <h2>Papers</h2>
