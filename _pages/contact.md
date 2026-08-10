@@ -5,7 +5,7 @@ layout: default
 <h1 style="color: #cc0000;">Contact page</h1>
 
 <p>
-  <b>University.</b> jcamp51 "AT" uic "DOT" edu
+  <b>University.</b> jrcamp "AT" bu "DOT" edu
 </p>
 
 <p>
