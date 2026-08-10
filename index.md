@@ -24,5 +24,5 @@ layout: default
 
 <p>
   <i class="fa fa-envelope"></i>
-  jcamp51 "AT" uic "DOT" edu
+  jrcamp "AT" bu "DOT" edu
 </p>
