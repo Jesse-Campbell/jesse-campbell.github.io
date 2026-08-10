@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<h1>Teaching</h1>
-
 <section id="notes">
     <h3>Graduate Teaching Assistant, University of Illinois at Chicago</h3>
     <ul>
