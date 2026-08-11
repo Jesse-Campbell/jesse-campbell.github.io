@@ -26,3 +26,5 @@ layout: default
   <i class="fa fa-envelope"></i>
   jrcamp "AT" bu "DOT" edu
 </p>
+
+<p style="display: none;">uic; university of illinois chicago; chicago; duke; duke kunshan; duke university; duke kunshan university; dku; orlando; boston; florida; jazz; jazz piano; piano; china; kunshan;</p>
