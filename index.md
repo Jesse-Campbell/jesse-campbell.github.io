@@ -27,4 +27,4 @@ layout: default
   jrcamp "AT" bu "DOT" edu
 </p>
 
-<p style="color: white;">uic; university of illinois chicago; chicago; duke; duke kunshan; duke university; duke kunshan university; dku; orlando; boston; florida; jazz; jazz piano; piano; china; kunshan;</p>
+<p style="color: white;">uic; university of illinois chicago; chicago; duke; duke kunshan; duke university; duke kunshan university; dku; orlando; boston; florida; jazz; jazz piano; piano; china; kunshan; dp; privacy; machine learning;</p>
