@@ -24,7 +24,7 @@ classes: wide
 </p>
 
 <p>
-  <i class="fa fa-envelope"></i>
+  <i class="bi bi-envelope"></i>
   jrcamp "AT" bu "DOT" edu
 </p>
 
