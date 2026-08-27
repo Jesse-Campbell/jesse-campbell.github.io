@@ -26,8 +26,10 @@ classes: wide
 <p>
   <i class="fa fa-envelope"></i>
   jrcamp "AT" bu "DOT" edu
+</p>
 
-  <i class="fa-solid fa-house"></i>
+<p>
+  <i class="fa fa-house"></i>
   CDS 1043, 665 Commonwealth Ave, Boston, MA 02215
 </p>
 
