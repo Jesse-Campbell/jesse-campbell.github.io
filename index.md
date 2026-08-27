@@ -29,7 +29,7 @@ classes: wide
 </p>
 
 <p>
-  <i class="fa fa-house"></i>
+  <i class="bi bi-house"></i>
   CDS 1043, 665 Commonwealth Ave, Boston, MA 02215
 </p>
 
