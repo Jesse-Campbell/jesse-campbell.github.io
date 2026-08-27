@@ -28,8 +28,8 @@ layout: default
 
   <i class="fa-solid fa-house"></i>
   CDS 1043
-  665 Commonwealth Ave
-  Boston, MA 02215
+  
+  665 Commonwealth Ave, Boston, MA 02215
 </p>
 
 <p style="color: white;">jesse rudolph campbell; jrcamp; uic; university of illinois chicago; chicago; duke; duke kunshan; duke university; duke kunshan university; dku; orlando; boston; florida; jazz; jazz piano; piano; china; kunshan; dp; privacy; machine learning;</p>
