@@ -1,6 +1,5 @@
 ---
 layout: default
-classes: wide
 ---
 
 <h1 style="color: #cc0000;">
