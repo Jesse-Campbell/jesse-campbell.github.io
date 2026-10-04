@@ -6,13 +6,6 @@ layout: default
     <h2>Papers</h2>
     <ul>
       <li>
-        <span class="publication-title">Õptimal Collective Tree Spanners</span> | <a href="files/collective_tree_spanners.pdf" target="_blank">PDF</a> <br>
-         <span class="publication-authors"> August 2026</span><br>
-        <span class="publication-venue"> <em>Submitted to SOSA2027</em></span><br>
-      </li>
-    </ul>
-    <ul>
-      <li>
         <span class="publication-title">Expressivity of Contradiction Graphs</span> | <a href="https://arxiv.org/abs/2605.20434" target="_blank">Link</a> <br>
          <span class="publication-authors"> with <a href="https://sites.google.com/uic.edu/dibai/home" target="_blank">Daniel Ibaibarriaga</a> and <a href="https://www.levreyzin.com/" target="_blank">Lev Reyzin</a>. June 2026</span><br>
         <span class="publication-venue"> <em>arXiv Preprint</em></span><br>
@@ -34,6 +27,17 @@ layout: default
         <span class="publication-title">Chromatic Symmetric Functions <em>(Undergraduate Thesis)</em></span> | <a href="files/thesis_campbell.pdf" target="_blank">PDF</a> <br>
          <span class="publication-authors"> advised by Italo Simonelli. May 2025</span><br>
         <span class="publication-venue">In <em>Duke Kunshan University 2025 Signature Work Conference and Exhibition</em></span><br>
+      </li>
+    </ul>
+  </section>
+
+  <section id="miscellaneous">
+    <h2>Miscellaneous</h2>
+  <ul>
+      <li>
+        <span class="publication-title">Õptimal Collective Tree Spanners</span> | <a href="files/collective_tree_spanners.pdf" target="_blank">PDF</a> <br>
+         <span class="publication-authors"> August 2026</span><br>
+        <span class="publication-venue"> <em>Submitted to SOSA2027</em></span><br>
       </li>
     </ul>
   </section>
