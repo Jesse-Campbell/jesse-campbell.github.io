@@ -37,7 +37,6 @@ layout: default
       <li>
         <span class="publication-title">Õptimal Collective Tree Spanners</span> | <a href="files/collective_tree_spanners.pdf" target="_blank">PDF</a> <br>
          <span class="publication-authors"> August 2026</span><br>
-        <span class="publication-venue"> <em>Submitted to SOSA2027</em></span><br>
       </li>
     </ul>
   </section>
