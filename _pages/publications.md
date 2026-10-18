@@ -8,7 +8,7 @@ layout: default
       <li>
         <span class="publication-title">Contradiction Graphs Determine (Almost) Everything</span> | <a href="https://arxiv.org/abs/2605.20434" target="_blank">Link</a> <br>
          <span class="publication-authors"> with <a href="https://sites.google.com/uic.edu/dibai/home" target="_blank">Daniel Ibaibarriaga</a> and <a href="https://www.levreyzin.com/" target="_blank">Lev Reyzin</a>. June 2026</span><br>
-        <span class="publication-venue"> <em>Submitted to ALT2027</em></span><br>
+        <span class="publication-venue"> <em>in submission</em></span><br>
       </li>
     </ul>
     <ul>
